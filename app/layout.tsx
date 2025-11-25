@@ -3,7 +3,6 @@ import type { Metadata } from 'next'
 import { Archivo } from 'next/font/google'
 
 import '@/styles/globals.css'
-import { SiteHeader } from '@/components/site-header'
 
 const archivo = Archivo({
   subsets: ['latin'],
@@ -13,17 +12,13 @@ const archivo = Archivo({
 })
 
 export const metadata: Metadata = {
-  title: 'Production App',
-  description: 'Enterprise-grade Next.js 15 fullstack application',
-  viewport: 'width=device-width, initial-scale=1',
+  title: 'Tobika',
+  description: 'The perfect place for who watch everything.',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <div className="container mx-auto px-4 pb-20">
-        <SiteHeader />
-      </div>
       <body className={`${archivo.className} antialiased`}>{children}</body>
     </html>
   )
