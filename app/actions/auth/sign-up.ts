@@ -1,9 +1,9 @@
 'use server'
 
-import type { PostUsersCreateBody } from '@/api/endpoints.schemas'
-import { postUsersCreate } from '@/api/users'
+import type { PostUsersCreateBody } from '../../api/endpoints.schemas'
+import { postUsersCreate } from '../../api/users'
 import { api } from '@/services/api'
-import type { Language } from '@Tobika_app/tmdb'
+import type { Language } from '@/types/languages/index'
 import { redirect } from 'next/navigation'
 import { signIn } from './sign-in'
 

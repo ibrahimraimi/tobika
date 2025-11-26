@@ -2,9 +2,9 @@
 
 import { createContext, useContext } from 'react'
 
-import { useGetLists } from '@/api/list'
+import { useGetLists } from '@/app/api/list'
 
-import type { GetLists200ListsItem } from '@/api/endpoints.schemas'
+import type { GetLists200ListsItem } from '@/app/api/endpoints.schemas'
 import type { ReactNode } from 'react'
 import { useSession } from './session'
 
@@ -15,13 +15,9 @@ export type ListsContextType = {
 
 export type ListsContextProviderProps = { children: ReactNode }
 
-export const ListsContext = createContext<ListsContextType>(
-  {} as ListsContextType
-)
+export const ListsContext = createContext<ListsContextType>({} as ListsContextType)
 
-export const ListsContextProvider = ({
-  children,
-}: ListsContextProviderProps) => {
+export const ListsContextProvider = ({ children }: ListsContextProviderProps) => {
   const { user } = useSession()
   const { data, isLoading } = useGetLists({ userId: user?.id })
 

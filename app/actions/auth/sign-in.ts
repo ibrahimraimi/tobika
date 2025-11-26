@@ -1,6 +1,6 @@
 'use server'
 
-import { postLogin } from '@/api/auth'
+import { postLogin } from '../../api/auth'
 import { createSession } from '@/app/lib/session'
 import { redirect } from 'next/navigation'
 

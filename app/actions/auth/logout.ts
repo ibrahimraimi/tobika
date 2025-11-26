@@ -1,6 +1,6 @@
 'use server'
 
-import type { Language } from '@Tobika_app/tmdb'
+import type { Language } from '@/types/languages/index'
 import { cookies } from 'next/headers'
 import { redirect } from 'next/navigation'
 
