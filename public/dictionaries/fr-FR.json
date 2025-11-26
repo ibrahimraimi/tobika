@@ -1,0 +1,872 @@
+{
+  "home": {
+    "keywords": "organiser des films, organiser des séries, application pour films et séries, recommandations personnalisées, créer des listes de films, gestion des séries, meilleures applications de films, application pour des marathons de séries, organiser des marathons, avis sur les séries, listes de films en ligne, interface élégante pour séries, suggestions de films, gérer les films regardés"
+  },
+  "home_prices": {
+    "title": "Commencez votre voyage aujourd'hui",
+    "description": "Découvrez le monde des films et des séries comme jamais auparavant. Commencez votre voyage Tobika aujourd'hui et rejoignez une communauté grandissante d'amateurs de cinéma!",
+    "monthly": "Mensuel",
+    "yearly": "Annuel",
+    "free_plan": {
+      "title": "Gratuit",
+      "price": "0 €/mois",
+      "description": "Explorez des films et séries et gérez vos contenus.",
+      "benefits": [
+        "Accès complet à la plateforme",
+        "Avis illimités",
+        "Listes sans limites",
+        "Outils pour gérer vos contenus regardés, en cours ou prévus",
+        "Listes collaboratives",
+        "Recommander des contenus à des amis"
+      ],
+      "start_now": "Commencez maintenant !"
+    },
+    "pro_plan": {
+      "title": "Pro",
+      "price": "5 €/mois",
+      "recommended": "Recommandé",
+      "description": "Tout dans le plan gratuit et bien plus encore !",
+      "benefits": [
+        "Recommandations personnalisées basées sur votre historique",
+        "Badges et réalisations",
+        "Statistiques personnelles détaillées",
+        "Accès prioritaire aux nouvelles fonctionnalités de la plateforme"
+      ],
+      "subscribe": "Abonnez-vous"
+    }
+  },
+  "movies_list": {
+    "now_playing": "Films à l'affiche",
+    "popular": "Films populaires",
+    "top_rated": "Films les mieux notés",
+    "upcoming": "Prochaines sorties",
+    "show_all": "Tout afficher"
+  },
+  "animes_page": {
+    "title": "Animes",
+    "description": "Des classiques légendaires aux nouveaux succès, trouvez les animes que vous aimez, organisez vos listes et plongez dans des histoires incroyables."
+  },
+  "login_form": {
+    "email_label": "E-mail",
+    "password_label": "Mot de passe",
+    "show_password": "Afficher le mot de passe",
+    "hide_password": "Cacher le mot de passe",
+    "access_button": "Accéder",
+    "email_required": "Veuillez entrer votre adresse e-mail.",
+    "email_invalid": "Veuillez entrer une adresse e-mail valide.",
+    "password_required": "Veuillez entrer votre mot de passe.",
+    "password_length": "Votre mot de passe doit comporter au moins 8 caractères.",
+    "login_success": "Connexion réussie. Bienvenue ! 🎉",
+    "invalid_login_credentials": "Identifiants de connexion invalides",
+    "try_again": "Réessayer"
+  },
+  "sign_up_form": {
+    "email_label": "E-mail",
+    "password_label": "Mot de passe",
+    "show_password": "Afficher le mot de passe",
+    "hide_password": "Cacher le mot de passe",
+    "submit_button": "Soumettre",
+    "email_required": "Veuillez entrer votre adresse e-mail.",
+    "email_invalid": "Veuillez entrer une adresse e-mail valide.",
+    "password_required": "Veuillez entrer votre mot de passe.",
+    "password_length": "Votre mot de passe doit comporter au moins 8 caractères.",
+    "sign_up_success": "Inscription réussie. Bienvenue ! 🎉",
+    "invalid_sign_up_credentials": "Identifiants d'inscription invalides",
+    "try_again": "Réessayer"
+  },
+  "app_page": {
+    "dashboard_title": "Tableau de bord",
+    "dashboard_description": "Vue d'ensemble de vos activités et tendances.",
+    "popular_movies_title": "Films Populaires",
+    "popular_tv_series_title": "Séries Populaires"
+  },
+  "tabs": {
+    "reviews": "Critiques",
+    "credits": "Crédits",
+    "recommendations": "Recommandations",
+    "similar": "Similaires",
+    "images": "Images",
+    "videos": "Vidéos",
+    "seasons": "Saisons"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "discover": "Découvrir",
+    "discover_description": "Prêt pour quelque chose de nouveau ? Laissez-nous vous surprendre avec des films et des séries que vous allez adorer.",
+    "now_playing": "À l'affiche",
+    "now_playing_description": "Restez à jour avec les films qui brillent sur les grands écrans en ce moment.",
+    "popular": "Populaires",
+    "popular_description": "Voyez ce qui est tendance ! Ce sont les films et les séries que tout le monde regarde et dont tout le monde parle.",
+    "top_rated": "Mieux Notés",
+    "top_rated_description": "Découvrez ce qui a conquis le cœur et l'esprit du public et des critiques.",
+    "upcoming": "Prochainement",
+    "upcoming_description": "Prenez une longueur d'avance et restez informé des prochains grands succès qui envahiront bientôt les écrans.",
+    "tv_series_description": "Séries dignes de binge-watching. Explorez de nouvelles histoires, des personnages inoubliables et vos prochains visionnages intensifs.",
+    "airing_today": "Diffusé Aujourd'hui",
+    "airing_today_description": "Ne ratez pas le coche ! Voyez quelles séries diffusent des épisodes frais aujourd'hui.",
+    "on_the_air": "À l'Antenne",
+    "on_the_air_description": "Accordez-vous ici pour ne pas manquer les épisodes actuels des séries les plus chaudes du moment.",
+    "lists": "Listes",
+    "lists_description": "Vos choix, vos intérêts. Créez et partagez des listes de vos films et séries préférés avec la communauté.",
+    "animes_description": "Découvrez des aventures épiques et des visuels époustouflants."
+  },
+  "sidebar_search": {
+    "placeholder": "Recherchez des films, des émissions de télévision ou des personnes",
+    "search_everything": "Rechercher tout",
+    "no_results": "Aucun résultat trouvé.",
+    "tv_series": "Séries TV"
+  },
+  "watch_providers": {
+    "label": "Fournisseurs de visionnage",
+    "stream": "Diffuser",
+    "rent": "Louer",
+    "buy": "Acheter"
+  },
+  "lists_dropdown": {
+    "my_lists": "Mes listes",
+    "removed_successfully": "Supprimé avec succès.",
+    "added_successfully": "Ajouté avec succès."
+  },
+  "credits": {
+    "cast": "Distribution",
+    "crew": "Équipe"
+  },
+  "review_form": {
+    "required": "Un avis est requis.",
+    "rating_max": "La valeur maximale de la note est de 5",
+    "success": "Avis créé avec succès.",
+    "publish": "Publier",
+    "placeholder": "Qu'en pensez-vous ?",
+    "login": "Connexion",
+    "register": "Inscription",
+    "or": "ou",
+    "make_first_review": "pour faire votre première critique !"
+  },
+  "review_reply_form": {
+    "success": "Réponse créée avec succès."
+  },
+  "review_reply": {
+    "reply": "Répondre",
+    "placeholder": "Ajouter une réponse...",
+    "open_replies": "Voir les réponses",
+    "hide_replies": "Cacher les réponses"
+  },
+  "review_item_actions": {
+    "like": "Aimer",
+    "reply": "Répondre",
+    "delete": "Supprimer",
+    "dialog_title": "Êtes-vous absolument sûr ?",
+    "dialog_description": "Cette action ne peut pas être annulée."
+  },
+  "review_reply_actions": {
+    "like": "Aimer",
+    "delete": "Supprimer",
+    "delete_success": "Réponse supprimée avec succès.",
+    "dialog_title": "Êtes-vous absolument sûr ?",
+    "dialog_description": "Cette action ne peut pas être annulée.",
+    "dialog_close": "Fermer"
+  },
+  "movie_collection": {
+    "part_of": "Partie de",
+    "see_collection": "Voir la collection"
+  },
+  "collection_list_dropdown": {
+    "add_collection_to_list": "Ajouter la collection à la liste",
+    "my_lists": "Mes listes",
+    "collection_removed_successfully": "Collection supprimée avec succès.",
+    "collection_added_successfully": "Collection ajoutée avec succès."
+  },
+  "auth": {
+    "logout_success": "Déconnexion réussie. À la prochaine ✌"
+  },
+  "list_card": {
+    "delete": "Supprimer",
+    "delete_success": "Liste supprimée avec succès.",
+    "dialog_title": "Êtes-vous absolument sûr?",
+    "dialog_description": "Cette action est irréversible. Cette liste disparaîtra à jamais.",
+    "dialog_close": "Fermer"
+  },
+  "list_form": {
+    "create_new_list": "Créer une nouvelle liste",
+    "name_placeholder": "Ma Liste",
+    "name_required": "Le nom de la liste est requis.",
+    "description": "Description",
+    "description_placeholder": "Films et émissions de télévision que je prévois de regarder.",
+    "visibility": "Visibilité",
+    "visibility_option_public": "Public",
+    "visibility_option_network": "Réseau",
+    "visibility_option_private": "Privé",
+    "visibility_option_description_public": "Visible par tous.",
+    "visibility_option_description_network": "Visible seulement par les amis.",
+    "visibility_option_description_private": "Visible uniquement par moi.",
+    "submit": "Soumettre",
+    "edit_list": "Modifier la liste"
+  },
+  "list_page": {
+    "list_not_found": "Liste non trouvée.",
+    "see_your_lists_or_create_new": "Voir vos listes ou en créer une nouvelle en cliquant",
+    "here": "ici"
+  },
+  "list_items": {
+    "table": "Tableau",
+    "grid": "Grille"
+  },
+  "data_table": {
+    "title": "Titre",
+    "type": "Type",
+    "overview": "Aperçu",
+    "added_at": "Ajouté le",
+    "status": "Statut",
+    "no_results": "Aucun résultat trouvé.",
+    "clear_filters": "Effacer les filtres"
+  },
+  "data_table_column_header": {
+    "asc": "Asc",
+    "desc": "Desc",
+    "hide": "Cacher"
+  },
+  "data_table_toolbar": {
+    "filter_items_placeholder": "Filtrer les éléments...",
+    "reset": "Réinitialiser"
+  },
+  "data_table_columns": {
+    "index": "Indice",
+    "title": "Titre",
+    "type": "Type",
+    "added_at": "Ajouté le",
+    "status": "Statut",
+    "actions": "Actions",
+    "movie": "Film",
+    "tv_serie": "Série TV"
+  },
+  "data_table_view_options": {
+    "view": "Voir",
+    "toggle_columns": "Basculer les colonnes"
+  },
+  "list_item_actions": {
+    "use_as_cover": "Utiliser comme couverture",
+    "status": "Statut",
+    "delete": "Supprimer",
+    "removed_successfully": "Supprimé avec succès.",
+    "cover_changed_successfully": "Couverture changée avec succès.",
+    "see_details": "Voir les détails"
+  },
+  "credits_columns": {
+    "year": "Année",
+    "title": "Titre",
+    "role": "Rôle",
+    "rating": "Évaluation"
+  },
+  "movie_pages": {
+    "discover": {
+      "title": "Découvrir",
+      "description": "Explorez une large sélection de films avec des filtres personnalisés et des options de tri."
+    },
+    "now_playing": {
+      "title": "En salle",
+      "description": "Découvrez les films actuellement à l'affiche dans les cinémas près de chez vous."
+    },
+    "popular": {
+      "title": "Populaires",
+      "description": "Découvrez les films qui captivent le public et dominent les classements de popularité."
+    },
+    "top_rated": {
+      "title": "Les mieux notés",
+      "description": "Explorez les films les plus acclamés avec les meilleures critiques du public et des experts."
+    },
+    "upcoming": {
+      "title": "À venir",
+      "description": "Restez informé des films les plus attendus qui arriveront bientôt sur les écrans."
+    }
+  },
+  "tv_serie_pages": {
+    "airing_today": {
+      "title": "Diffusé aujourd'hui",
+      "description": "Consultez les séries télévisées diffusées aujourd'hui."
+    },
+    "on_the_air": {
+      "title": "À l'antenne",
+      "description": "Découvrez les séries télévisées programmées pour être diffusées dans les 7 prochains jours."
+    },
+    "popular": {
+      "title": "Populaires",
+      "description": "Explorez les séries télévisées qui dominent les classements de popularité et captivent le public."
+    },
+    "top_rated": {
+      "title": "Les mieux notées",
+      "description": "Découvrez les séries télévisées les plus acclamées avec les meilleures critiques du public et des experts."
+    },
+    "discover": {
+      "title": "Découvrir",
+      "description": "Explorez de nouvelles séries télévisées à l'aide de filtres avancés pour trouver exactement ce que vous aimez."
+    }
+  },
+  "user_last_review": {
+    "title": "Votre dernière critique",
+    "no_review_message": "On dirait que vous n'avez écrit aucun avis ! 😿",
+    "no_review_action": "Cliquez ici pour voir les films les mieux notés.",
+    "login": "Connexion",
+    "register": "Inscription",
+    "or": "ou",
+    "make_first_review": "pour faire votre première critique !"
+  },
+  "latest_reviews": {
+    "title": "Avis récents",
+    "no_reviews_found": "Nous n'avons trouvé aucun avis.",
+    "explore_popular_movies": "Explorez les films populaires et donnez-nous votre avis."
+  },
+  "movies_list_filters": {
+    "title": "Découvrir les Films",
+    "tabs": {
+      "filters": "Filtres",
+      "order": "Trier",
+      "watch_providers": "Où Regarder"
+    },
+    "actions": {
+      "close": "Fermer",
+      "save_changes": "Enregistrer les Modifications"
+    },
+    "genres_field": {
+      "label": "Genres",
+      "placeholder": "Sélectionnez un genre",
+      "no_genre_message": "Vous n'avez sélectionné aucun genre."
+    },
+    "language_field": {
+      "label": "Langue",
+      "placeholder": "Sélectionnez une langue"
+    },
+    "release_date_field": {
+      "from_label": "De",
+      "to_label": "À",
+      "from_placeholder": "18/11/2002",
+      "to_placeholder": "18/11/2003",
+      "select_date": "Sélectionnez une date"
+    },
+    "sort_by": {
+      "label": "Trier par",
+      "placeholder": "Trier par",
+      "options": {
+        "popularity.desc": "Plus populaire",
+        "popularity.asc": "Moins populaire",
+        "revenue.desc": "Plus haut revenu",
+        "revenue.asc": "Plus bas revenu",
+        "primary_release_date.desc": "Plus récent",
+        "primary_release_date.asc": "Moins récent",
+        "vote_average.desc": "Mieux noté",
+        "vote_average.asc": "Moins bien noté",
+        "vote_count.desc": "Le plus voté",
+        "vote_count.asc": "Le moins voté"
+      }
+    },
+    "watch_providers_field": {
+      "label": "Fournisseurs",
+      "placeholder": "Filtrer par fournisseurs",
+      "clear_filters": "Effacer les filtres",
+      "no_results": "Aucun résultat trouvé."
+    },
+    "vote_average_field": {
+      "label": "Note moyenne"
+    },
+    "vote_count_field": {
+      "label": "Votes minimum"
+    },
+    "no_results": "Aucun résultat."
+  },
+  "tv_series_list_filters": {
+    "title": "Découvrir des séries",
+    "tabs": {
+      "filters": "Filtres",
+      "order": "Trier",
+      "watch_providers": "Où regarder"
+    },
+    "actions": {
+      "close": "Fermer",
+      "save_changes": "Enregistrer les modifications"
+    },
+    "genres_field": {
+      "label": "Genres",
+      "placeholder": "Sélectionnez un genre",
+      "no_genre_message": "Aucun genre sélectionné."
+    },
+    "language_field": {
+      "label": "Langue",
+      "placeholder": "Sélectionnez une langue"
+    },
+    "air_date": {
+      "from_label": "De",
+      "to_label": "À",
+      "from_placeholder": "18/11/2002",
+      "to_placeholder": "18/11/2003",
+      "select_date": "Sélectionnez une date"
+    },
+    "sort_by": {
+      "label": "Trier par",
+      "placeholder": "Trier par",
+      "options": {
+        "popularity.desc": "Plus populaire",
+        "popularity.asc": "Moins populaire",
+        "air_date.desc": "Plus récent",
+        "air_date.asc": "Moins récent",
+        "vote_average.desc": "Mieux noté",
+        "vote_average.asc": "Moins bien noté",
+        "vote_count.desc": "Plus voté",
+        "vote_count.asc": "Moins voté"
+      }
+    },
+    "watch_providers_field": {
+      "label": "Fournisseurs",
+      "placeholder": "Filtrer par fournisseurs",
+      "clear_filters": "Effacer les filtres",
+      "no_results": "Aucun résultat trouvé."
+    },
+    "watch_region_field": {
+      "label": "Région",
+      "placeholder": "Sélectionnez une région"
+    },
+    "vote_average_field": {
+      "label": "Note moyenne"
+    },
+    "vote_count_field": {
+      "label": "Votes minimums"
+    },
+    "no_results": "Aucun résultat."
+  },
+  "collection_filters": {
+    "title": "Filtrer votre collection",
+    "filters_tab": "Filtres",
+    "order_tab": "Trier",
+    "rating_field_label": "Évaluation",
+    "media_type_field_label": "Type",
+    "media_type_TV_SHOW": "Série TV",
+    "media_type_MOVIE": "Film",
+    "only_items_without_review_field_label": "Afficher uniquement les éléments sans avis",
+    "sort_by_label": "Trier par",
+    "sort_by_placeholder": "Trier par",
+    "sort_by_options": {
+      "addedAt.desc": "Ajoutés récemment",
+      "addedAt.asc": "Ajoutés en premier",
+      "updatedAt.desc": "Mis à jour récemment",
+      "updatedAt.asc": "Mis à jour en premier",
+      "rating.desc": "Meilleures évaluations",
+      "rating.asc": "Pires évaluations"
+    },
+    "close_button": "Fermer",
+    "save_changes_button": "Enregistrer les modifications",
+    "rating_disabled_message": "La note ne peut pas être ajustée lorsque 'Afficher uniquement les éléments sans avis' est sélectionné",
+    "options": {
+      "TV_SHOW": "Série TV",
+      "MOVIE": "Film"
+    }
+  },
+  "list_command": {
+    "search_placeholder": "Rechercher n'importe quoi...",
+    "no_results": "Aucun résultat trouvé.",
+    "tv_added_success": "Série TV ajoutée avec succès.",
+    "tv_removed_success": "Série TV retirée avec succès.",
+    "movies_label": "Films",
+    "remove_from_list": "Retirer de la liste",
+    "view_details": "Voir les détails",
+    "movie_added_success": "Film ajouté avec succès.",
+    "movie_removed_success": "Film retiré avec succès."
+  },
+  "no_account_tooltip": "Il semble que vous n'ayez pas encore de compte. Cliquez ici pour rejoindre la plateforme.",
+  "user_resume": {
+    "by": "par"
+  },
+  "tv_serie_season_details": {
+    "episode_number": "Épisode",
+    "name": "Nom",
+    "overview": "Aperçu",
+    "runtime": "Durée",
+    "vote": "Vote"
+  },
+  "popular_people": {
+    "title": "Personnes populaires",
+    "description": "Obtenez une liste de personnes classées par popularité."
+  },
+  "changelog": {
+    "title": "Journal des modifications",
+    "description": "Nouvelles mises à jour et améliorations.",
+    "subscribe": "Abonnez-vous aux mises à jour !"
+  },
+  "text_actions": {
+    "expand": "Voir plus",
+    "contract": "Voir moins"
+  },
+  "grid": "Grille",
+  "table": "Tableau",
+  "person_page": {
+    "credit_list": {
+      "show_all": "Tout afficher",
+      "show_less": "Afficher moins"
+    }
+  },
+  "thank_you": {
+    "title": "Merci pour votre soutien !",
+    "subtitle": "Vous faites désormais partie du plan des membres !",
+    "description": "Avec de grands pouvoirs viennent de grandes responsabilités :",
+    "feature1": {
+      "title": "Listes Infinies",
+      "description": "Dites adieu aux limitations ! Créez et maintenez autant de listes que vous le souhaitez, pour organiser vos séances de binge-watching, planifier des soirées cinéma et bien plus encore."
+    },
+    "feature2": {
+      "title": "Recommandations Sur Mesure",
+      "description": "Découvrez de nouveaux titres qui correspondent parfaitement à votre goût unique, grâce à notre système intelligent de recommandations personnalisées."
+    },
+    "feature3": {
+      "title": "Cloner et Conquérir",
+      "description": "Laissez-vous inspirer par les listes d'autres membres ou créez des versions personnalisées de vos propres listes en un clic."
+    },
+    "feature4": {
+      "title": "Votre Nom, Votre Identité",
+      "description": "Vous sentez-vous le besoin de changer ? Mettez à jour votre nom d'utilisateur quand vous le souhaitez, en gardant votre identité numérique alignée avec votre moi cinéphile."
+    }
+  },
+  "profile": {
+    "achievements": "Réalisations",
+    "reviews": "Critiques",
+    "lists": "Listes",
+    "recommendations": "Recommandations",
+    "communities": "Communautés",
+    "work_in_progress": "Travail en cours",
+    "no_lists": "Cet utilisateur n'a pas encore de listes.",
+    "explore_popular_lists": "Cliquez ici pour explorer les listes les plus populaires"
+  },
+  "profile_form": {
+    "dialog_title": "Modifier",
+    "username_label": "Nom d'utilisateur",
+    "username_placeholder": "John",
+    "username_required": "Un nouveau nom d'utilisateur est requis",
+    "username_invalid": "Nom d'utilisateur invalide",
+    "error_existent_username": "existe déjà.",
+    "same_username": "Vous devez essayer un nouveau nom d'utilisateur",
+    "submit_button": "Enregistrer les modifications"
+  },
+  "profile_banner": {
+    "change_banner": "Changer de bannière",
+    "changed_successfully": "Bannière modifiée avec succès."
+  },
+  "private_list": {
+    "title": "✋ Calme-toi, mon ami!",
+    "description": "Vous n'êtes pas autorisé à voir cette liste.",
+    "cta": "Voir d'autres listes."
+  },
+  "review_likes": {
+    "view_profile": "Voir le profil"
+  },
+  "legacy_user": {
+    "title": "Réinitialisation du mot de passe",
+    "description": "Nous avons mis à jour notre système et, pour votre sécurité, il est nécessaire de réinitialiser votre mot de passe. Nous avons envoyé des instructions à votre adresse e-mail enregistrée.",
+    "resend_email": "Renvoyer l'e-mail",
+    "agree": "J'ai compris"
+  },
+  "access_button": "Accéder",
+  "access_now": "Accede ahora",
+  "create_account": "Crear una cuenta",
+  "search_movies_or_series": "Rechercher des films ou des séries...",
+  "select_an_image": "Sélectionnez une image",
+  "profile_image_changed_successfully": "L'image de profil a été modifiée avec succès.",
+  "review_deleted_successfully": "Avis supprimé avec succès.",
+  "edit": "Modifier",
+  "delete": "Supprimer",
+  "close": "Fermer",
+  "edit_reply": "Modifier la réponse",
+  "my_lists": "Mes listes",
+  "manage_your_lists": "Gérez vos listes et partagez-les avec d'autres membres!",
+  "lists": "Listes",
+  "latest_lists": "Listes récentes",
+  "follow": "Suivre",
+  "unfollow": "Ne plus suivre",
+  "followers": "Abonnés",
+  "following": "Suivs",
+  "visit": "Visiter",
+  "like": "Aimer",
+  "remove_like": "Ne plus aimer",
+  "clone": "Cloner",
+  "share": "Partager",
+  "copy_link": "Copier le lien",
+  "link_copied_to_clipboard": "Lien copié dans le presse-papiers",
+  "share_to_twitter": "Partager sur Twitter",
+  "share_to_instagram": "Partager sur Instagram",
+  "list_cloned_successfully": "Liste clonée avec succès!",
+  "see_list": "Voir la liste",
+  "unable_to_clone_list": "Impossible de cloner la liste.",
+  "see_all_list": "Voir tout",
+  "recommend": "Recommander",
+  "recommendation_sended_successfully": "Recommandation envoyée avec succès.",
+  "recommendation_deleted_successfully": "Recommandation supprimée avec succès.",
+  "to": "à",
+  "suggestions": "Suggestions",
+  "search": "Rechercher...",
+  "write_a_message": "Écrire un message...",
+  "ago": "il y a",
+  "here": "ici",
+  "no_user_recommendations": "Nous n'avons pas encore de recommandations d'autres utilisateurs pour vous 😿",
+  "explore_popular_movies": "Que diriez-vous d'explorer des films populaires en attendant ? Cliquez",
+  "no_recommendations_sent": "Vous n'avez encore envoyé de recommandations à personne.",
+  "recommend_movies_to_friends": "Que diriez-vous de recommander vos films préférés à des amis ? En attendant, explorez des films populaires en cliquant",
+  "received": "Reçues",
+  "sent": "Envoyées",
+  "sent_to": "envoyé à",
+  "cancel_shipping": "Annuler l'envoi",
+  "add_to_list": "Ajouter à la liste",
+  "become_pro_button": "Devenir",
+  "welcome_to_tobika": "Bienvenue sur Tobika :",
+  "your_cinema_platform": "Votre plateforme de cinéma",
+  "join_tobika": "Découvrez une nouvelle façon de vivre le cinéma. Rejoignez Tobika et explorez tout ce que nous avons à offrir.",
+  "discover_advantages": "Découvrez les avantages d'être",
+  "about": "À propos de Plot Twist",
+  "features": "Fonctionnalités",
+  "pricing": "Tarification",
+  "community": "Communautés",
+  "github": "GitHub",
+  "brand": "Marque",
+  "legal": "Légal",
+  "privacy_policy": "Politique de Confidentialité",
+  "terms_of_service": "Conditions d'Utilisation",
+  "data_provided_by": "Données fournies par TMDB.",
+  "explore": "Explorer",
+  "save_order": "Sauvegarder l'ordre",
+  "edit_order": "Modifier l'ordre",
+  "start_now": "Commencez maintenant!",
+  "start_your_journey": "Commencez votre voyage en quelques étapes seulement.",
+  "already_have_an_account": "Vous avez déjà un compte?",
+  "continue_with_google": "Continuer avec Google",
+  "continue_with_x": "Continuer avec X",
+  "continue_with_email": "Continuer avec e-mail",
+  "or": "ou",
+  "sign_up": "S'inscrire",
+  "login": "Se connecter",
+  "theme": "Thème",
+  "language": "Langue",
+  "continue": "Continuer",
+  "do_not_have_an_account": "¿No tienes una cuenta?",
+  "create_now": "Crea una ahora",
+  "access_tobika": "Accédez à Tobika",
+  "logout": "Déconnexion",
+  "email_already_taken": "Cet e-mail est déjà utilisé.",
+  "username_label": "Nom d'utilisateur",
+  "select_your_username": "Sélectionnez votre nom d'utilisateur",
+  "select_your_username_description": "Choisissez votre nom d'utilisateur et terminez votre inscription pour commencer à utiliser la plateforme.",
+  "finish_sign_up": "Terminer l'inscription",
+  "username_required": "Le nom d'utilisateur est obligatoire.",
+  "username_invalid": "Le nom d'utilisateur ne peut pas contenir d'espaces ni de caractères spéciaux.",
+  "email_invalid": "Veuillez entrer une adresse e-mail valide.",
+  "login_required": "Veuillez entrer votre e-mail ou nom d'utilisateur.",
+  "login_label": "E-mail ou nom d'utilisateur",
+  "login_placeholder": "email@domain.com ou nom d'utilisateur",
+  "submit_button": "Soumettre",
+  "remembered_your_password": "Vous vous souvenez de votre mot de passe ?",
+  "forgot_your_password": "Mot de passe oublié ?",
+  "password_label": "Mot de passe",
+  "password_required": "Veuillez entrer votre mot de passe.",
+  "password_length": "Votre mot de passe doit contenir au moins 8 caractères.",
+  "request_password_reset_form_response": "Si l'adresse e-mail que vous avez entrée est associée à un compte, vous recevrez un e-mail avec des instructions pour réinitialiser votre mot de passe.",
+  "invalid_reset_password_code": "Code de réinitialisation de mot de passe non valide.",
+  "unexpected_error": "Une erreur inattendue s'est produite.",
+  "reset_password_success": "Mot de passe réinitialisé avec succès.",
+  "reset_your_password": "Réinitialisez votre mot de passe",
+  "new": "Nouveau",
+  "roadmap": "Feuille de route",
+  "documentation": "Documentation",
+  "username_already_taken": "Ce nom d'utilisateur est déjà utilisé.",
+  "list_created_success": "Liste créée avec succès.",
+  "unable_to_create_list": "Impossible de créer la liste.",
+  "title": "Titre",
+  "list_edited_successfully": "Liste modifiée avec succès.",
+  "upgrade_list_message": "Abonnez-vous au plan PRO pour obtenir des listes illimitées.",
+  "activity": "Activité",
+  "watched": "Vus",
+  "watching": "Visionnage",
+  "watchlist": "Liste de suivi",
+  "all": "Tout",
+  "stats": "Statistiques",
+  "where_to_watch": "Où regarder",
+  "unavailable": "Indisponible",
+  "watchlist_added": "Ajouté à la Watchlist !",
+  "watchlist_removed": "Supprimé de la Watchlist !",
+  "watched_added": "Ajouté à la Liste des Visionnés!",
+  "watched_removed": "Retiré de la Liste des Visionnés!",
+  "watching_added": "Ajouté à la Liste des En Cours de Visionnage!",
+  "watching_removed": "Retiré de la Liste des En Cours de Visionnage!",
+  "contain_spoilers": "Contient des spoilers",
+  "no_lists_found": "Nous n'avons trouvé aucune liste.",
+  "organize": "Organiser",
+  "movies_and_series": "des films et séries",
+  "never_been_easier": "n'a jamais été aussi facile.",
+  "most_apps_functional": "La plupart des applications sont fonctionnelles, mais sans intérêt.",
+  "tobika_incredible_interface": "Chez Tobika, nous préférons une interface incroyable, même si vous ne regardez jamais cette série sur votre liste.",
+  "keep_exploring": "Continuez à explorer",
+  "elegant_control": "Contrôle Élégant",
+  "elegant_control_description": "Gardez tout sous contrôle. Marquez ce que vous avez regardé, organisez par statut et ne vous perdez jamais dans vos marathons.",
+  "recommendations": "Recommandations",
+  "recommendations_description": "Découvrez des suggestions adaptées à vos goûts.",
+  "create_and_share_lists": "Créez et Partagez des Listes",
+  "create_and_share_lists_description": "Créez des listes thématiques et partagez-les avec vos amis pour inspirer leurs choix ou planifier des séances ensemble.",
+  "reviews": "Avis",
+  "reviews_description": "Donnez votre avis et lisez les critiques d'autres membres pour décider quoi regarder.",
+  "choose_the": "Choisissez le",
+  "perfect_plan": "plan parfait",
+  "for_you": "pour vous.",
+  "explore_features": "Découvrez des fonctionnalités gratuites ou passez à un niveau supérieur avec Pro.",
+  "already_in_free": "Vous êtes déjà sur le plan Free",
+  "already_in_pro": "Vous êtes déjà sur le plan PRO",
+  "biography": "Biographie",
+  "biography_placeholder": "Écrivez une brève description sur vous.",
+  "member_since": "Membre depuis",
+  "save_social_links": "Enregistrer les liens sociaux",
+  "account_data": "Données du compte",
+  "social_links": "Liens sociaux",
+  "subscription": "Abonnement",
+  "overall_progress": "Progrès global",
+  "episodes": "Épisodes",
+  "when_you_mark_all_episodes": "Lorsque vous marquez tous les épisodes comme regardés, la série/anime sera automatiquement mise à jour au statut de",
+  "update_progress": "Mettre à jour le progrès",
+  "update_status": "Mettre à jour le statut",
+  "feature_only_in_pro_plan": "Cette fonctionnalité est disponible uniquement dans le Plan PRO.",
+  "more": "Voir plus",
+  "popular_reviews": "Avis Populaires",
+  "liked": "Aimé",
+  "likes": "Aime",
+  "movies": "Films",
+  "tv_series": "Séries",
+  "total_hours_watched": "Heures Totales Regardées",
+  "days": "jours",
+  "and": "et",
+  "hours": "heures",
+  "reviews_conducted": "Avis réalisés",
+  "most_watched_series": "Séries les plus regardées",
+  "most_watched_genres": "Genres les plus regardés",
+  "see_all_genres": "Voir tous",
+  "featured_actors": "Acteurs en vedette",
+  "featured_actors_description": "Découvrez les acteurs qui reviennent souvent dans votre historique de films et séries.",
+  "origin_countries": "Pays d'origine",
+  "distribution_by_countries": "Répartition par pays de production",
+  "best_reviews": "Meilleures critiques",
+  "best_reviews_description": "Vos œuvres les mieux notées récemment",
+  "title_status": "Statut des titres",
+  "title_status_description": "Vus, en cours de visionnage et liste à voir",
+  "titles": "Titres",
+  "get_14_days_free": "Obtenez 14 jours gratuits",
+  "today": "Aujourd'hui",
+  "this_week": "Cette semaine",
+  "this_month": "Ce mois-ci",
+  "all_time": "Toujours",
+  "review": "Critique",
+  "reviewed": "Critiqué",
+  "what_did_you_think": "Qu'en avez-vous pensé ?",
+  "share_your_opinion_here": "Partagez votre avis ici",
+  "edit_review": "Modifier la critique",
+  "submit_review": "Soumettre la critique",
+  "edit_image": "Modifier l'image",
+  "cancel": "Annuler",
+  "apply": "Appliquer",
+  "people": "Personnes",
+  "users": "Utilisateurs",
+  "birth": "Naissance",
+  "death": "Mort",
+  "popularity": "Popularité",
+  "directing": "Réalisation",
+  "acting": "Interprétation",
+  "production": "Production",
+  "writing": "Scénario",
+  "camera": "Caméra",
+  "editing": "Montage",
+  "sound": "Son",
+  "art": "Art",
+  "costume_and_make_up": "Costumes et Maquillage",
+  "visual_effects": "Effets Visuels",
+  "crew": "Équipe",
+  "lighting": "Éclairage",
+  "actor": "Acteur",
+  "executive_producer": "Producteur Exécutif",
+  "musician": "Musicien",
+  "director": "Réalisateur",
+  "writer": "Écrivain",
+  "novel": "Romancier",
+  "audio_post_coordinator": "Coordinateur de Postproduction Audio",
+  "producer": "Producteur",
+  "screenplay": "Scénario",
+  "original_series_creator": "Créateur de Série Originale",
+  "creator": "Créateur",
+  "comic_book": "Bande Dessinée",
+  "characters": "Personnages",
+  "thanks": "Remerciements",
+  "in_memory_of": "À la Mémoire de",
+  "original_film_writer": "Scénariste du Film Original",
+  "co_executive_producer": "Co-Producteur Exécutif",
+  "presenter": "Présentateur",
+  "script_consultant": "Consultant en Scénario",
+  "consulting_producer": "Producteur Consultant",
+  "story": "Histoire",
+  "executive_story_editor": "Éditeur Exécutif de l'Histoire",
+  "creative_consultant": "Consultant Créatif",
+  "supervising_producer": "Producteur Superviseur",
+  "story_editor": "Éditeur d'Histoire",
+  "costume_design": "Concepteur de Costumes",
+  "production_design": "Concepteur de Production",
+  "editor": "Éditeur",
+  "as": "comme",
+  "marked": "Marqué",
+  "added": "Ajouté",
+  "removed": "Supprimé",
+  "from": "de",
+  "created_list": "A créé la liste",
+  "liked_list": "A aimé la liste",
+  "followed": "A suivi",
+  "unfollowed": "A cessé de suivre",
+  "user_reviewed": "A évalué",
+  "liked_review": "A aimé la critique de",
+  "watched_episodes": "A regardé",
+  "episode": "Épisode",
+  "replied_to_review": "A répondu à la critique de",
+  "liked_reply": "A aimé la réponse de",
+  "joined_tobika": "A rejoint Tobika 🎉",
+  "dropped": "Abandonné",
+  "collection": "Collection",
+  "dropped_add": "Ajouté à la liste des abandonnés.",
+  "dropped_removed": "Retiré de la liste des abandonnés.",
+  "doramas": "Doramas",
+  "doramas_description": "Organisez vos doramas préférés, découvrez de nouveaux succès et partagez votre passion avec la communauté.",
+  "be_the_first_to_leave_your_opinion": "Soyez le premier à laisser votre avis !",
+  "click_here_and_share_your_experience": "Cliquez ici et partagez votre expérience.",
+  "save_preferences": "Enregistrer les préférences",
+  "region": "Région",
+  "select_the_region": "Sélectionner la région",
+  "clear": "Effacer",
+  "watch_providers_label": "Services de streaming",
+  "select_the_watch_providers": "Sélectionnez les services de streaming",
+  "preferences_updated": "Préférences mises à jour avec succès.",
+  "preferences_description": "Vos préférences sont utilisées pour personnaliser votre expérience sur Tobika, comme recommandations et filtres.",
+  "preferences": "Préférences",
+  "no_results": "Aucun résultat trouvé",
+  "available_on_streaming_services": "✨ Résultats basés sur vos préférences",
+  "review_summary_generated_by_ai": "Résumé des critiques généré par IA",
+  "reading_reviews": "Lecture des critiques...",
+  "analyzing_reviews": "Analyse des critiques...",
+  "identifying_main_points": "Identification des points principaux...",
+  "generating_summary": "Génération du résumé...",
+  "previous_episode": "Épisode Précédent",
+  "next_episode": "Épisode Suivant",
+  "coming_soon": "En cours de production...",
+  "no_videos_found": "Aucun vidéo disponible pour le moment",
+  "no_images_found": "Aucune image disponible pour le moment",
+  "no_episodes_found": "Aucun épisode disponible pour le moment",
+  "get_14_days_free_pro": "🎉 Bénéficiez de 14 jours gratuits du",
+  "network_activity": "Activité de votre réseau",
+  "known_for": "Connu pour",
+  "credits_count": "Credité dans",
+  "gender": "Genre",
+  "birthdate": "Date de naissance",
+  "also_known_as": "Également connu comme",
+  "male": "Masculin",
+  "female": "Féminin",
+  "not_specified": "Non spécifié",
+  "progress_completed": "Progrès complet",
+  "overview": "Aperçu",
+  "your_progress": "Votre progression",
+  "community_badge": "✨ Faites partie d'une communauté de +400 utilisateurs",
+  "perfect_place_for_watching": "L'endroit parfait pour ceux qui regardent",
+  "everything": "tout",
+  "manage_rate_discover": "Gérez, évaluez, découvrez et partagez votre contenu préféré. Créez des listes, recevez des recommandations et suivez tout ce que vous avez regardé."
+}
